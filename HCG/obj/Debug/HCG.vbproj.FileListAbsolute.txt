@@ -1,0 +1,20 @@
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\bin\Debug\HCG.exe
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\bin\Debug\HCG.pdb
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\bin\Debug\HCG.xml
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\obj\Debug\HCG.frmPrincipal.resources
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\obj\Debug\HCG.Resources.resources
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\obj\Debug\HCG.frmPresentacion.resources
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\obj\Debug\HCG.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\obj\Debug\HCG.exe
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\obj\Debug\HCG.xml
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\HCG\HCG\obj\Debug\HCG.pdb
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\obj\Debug\HCG.exe
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\obj\Debug\HCG.xml
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\obj\Debug\HCG.pdb
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\bin\Debug\HCG.exe
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\bin\Debug\HCG.pdb
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\bin\Debug\HCG.xml
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\obj\Debug\HCG.frmPrincipal.resources
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\obj\Debug\HCG.Resources.resources
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\obj\Debug\HCG.frmPresentacion.resources
+\\vmware-host\Shared Folders\karankishinani\OneDrive\UTP\3er Año\Segundo Semestre\Herramientas de Computación Gráfica\Proyectos\Proyecto 1\Código Fuente\VisualBasic Proyecto Completo\HCG\obj\Debug\HCG.vbproj.GenerateResource.Cache
